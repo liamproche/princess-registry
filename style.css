@@ -1,0 +1,8 @@
+.family-tree{
+    display: flex;
+}
+.name-box{
+    border: 2px solid black;
+    width: 15%;
+    text-align: center;
+}
